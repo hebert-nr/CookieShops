@@ -18,6 +18,7 @@ Plot out what we're looking for in an application and we can set a time frame (i
 <li>What editor will we use? Notepad++? Brackets? NetBeans? Android studio? Visual Studio? something else?</li>
 <li>What mapping agent will we use? Google? Bing? MapQuest? something else?</li>
 <li>How will we divvy up the work? Who does what?</li>
+<li>Will this all make us better coders? I hope <a href="https://dev.to/t/beginners">JavaScript Stuff</a></li>
 </ul>
 
 <h3>End goal:</h3>
