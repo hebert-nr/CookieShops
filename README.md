@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<div style="padding:8%; background-color:#DEFFE0;font-size:1.2em;">
+<div>
 <h1># CookieShops</h1>
 <h3>This is an application used to help locate... um... cookie stores.</h3>
 
